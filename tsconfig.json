@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"lib": ["es2022", "DOM", "DOM.Iterable"],
+		"noEmit": true,
+		"rootDir": "./",
+		"types": [],
+		"allowJs": true
+	},
+	"include": ["src"]
+}
